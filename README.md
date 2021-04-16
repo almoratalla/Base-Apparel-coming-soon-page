@@ -45,14 +45,14 @@ Screen: `1440x800 active state desktop`
 ![1440x800 active state desktop screenshot](./screens/screenshot-desktop-active-state-1440x800.png)
 
 Screen: `375x800 mobile`
-![375x1502 mobile screenshot](./screens/screenshot-mobile-375x800.png)
+![375x800 mobile screenshot](./screens/screenshot-mobile-375x800.png)
 
 Screen: `375x800 active state mobile`
-![375x1502 mobile screenshot](./screens/screenshot-mobile-active-375x800.png)
+![375x800 mobile screenshot](./screens/screenshot-mobile-active-state-375x800.png)
 
 ### Links
 
-- Solution URL: [Github repo url](https://github.com/almoratalla/base-apparel-coming-soon)
+- Solution URL: [Github repo url](https://github.com/almoratalla/Base-Apparel-coming-soon-page)
 - Live Site URL: [My Github page](https://almoratalla.github.io/projects/learning/base-apparel-coming-soon)
 
 ## My process
